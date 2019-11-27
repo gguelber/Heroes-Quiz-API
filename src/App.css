@@ -1,0 +1,75 @@
+body {
+  max-height: 100vh;
+  background-color: gray;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.startingDiv {
+  display: grid;
+  justify-content: center;
+}
+.mainDiv {
+  display: grid;
+  justify-content: center;
+}
+.endingDiv {
+  display: grid;
+  justify-content: center;
+}
+
+.startingDiv > button {
+  height: 100px;
+  margin: 30px;
+  font-size: large;
+  background-color: #09d3ac;
+}
+
+.startingDiv > h1 {
+  font-size: 35px;
+  text-align: center;
+}
+
+.mainDiv > button {
+  height: 35px;
+  margin: 20px;
+  font-size: large;
+  background-color: lightskyblue;
+}
+
+.mainDiv > h3 {
+  color: green;
+  font-size: 25px;
+}
+
+.endingDiv > button {
+  height: 100px;
+  margin: 20px;
+  font-size: large;
+  background-color: #09d3ac;
+}
+
+.endingDiv > h1 {
+  text-align: center;
+}
