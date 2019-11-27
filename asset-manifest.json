@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Heroes-Quiz-API/static/css/main.7fe5e623.chunk.css",
+    "main.js": "/Heroes-Quiz-API/static/js/main.2fa15765.chunk.js",
+    "main.js.map": "/Heroes-Quiz-API/static/js/main.2fa15765.chunk.js.map",
+    "runtime-main.js": "/Heroes-Quiz-API/static/js/runtime-main.3507664f.js",
+    "runtime-main.js.map": "/Heroes-Quiz-API/static/js/runtime-main.3507664f.js.map",
+    "static/js/2.8353ba06.chunk.js": "/Heroes-Quiz-API/static/js/2.8353ba06.chunk.js",
+    "static/js/2.8353ba06.chunk.js.map": "/Heroes-Quiz-API/static/js/2.8353ba06.chunk.js.map",
+    "index.html": "/Heroes-Quiz-API/index.html",
+    "precache-manifest.8d5ab8a59f8fabb33539ea97f37cc1bd.js": "/Heroes-Quiz-API/precache-manifest.8d5ab8a59f8fabb33539ea97f37cc1bd.js",
+    "service-worker.js": "/Heroes-Quiz-API/service-worker.js",
+    "static/css/main.7fe5e623.chunk.css.map": "/Heroes-Quiz-API/static/css/main.7fe5e623.chunk.css.map",
+    "static/media/marvel-vs-dc.jpeg": "/Heroes-Quiz-API/static/media/marvel-vs-dc.d83897ef.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3507664f.js",
+    "static/js/2.8353ba06.chunk.js",
+    "static/css/main.7fe5e623.chunk.css",
+    "static/js/main.2fa15765.chunk.js"
+  ]
+}
