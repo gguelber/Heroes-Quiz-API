@@ -2,7 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instructions
 
-1 - Clone or Download this repository to your local machine, either by clicking download .zip file or open the command prompt (CMD) to clone directly to any folder you want: git clone https://github.com/gguelber/Heroes-Quiz-API.git
+1 - Clone or Download this repository to your local machine, either by clicking download .zip file or open the command prompt (CMD) to clone directly to any folder you want: 
+
+### `git clone https://github.com/gguelber/Heroes-Quiz-API.git`
 
 2 - Using the Command Prompt, go to the folder where you downloaded/cloned this repository and install all necessary dependencies using the following command:
 
